@@ -2,6 +2,7 @@
 Title: Lingering Death
 Author: Wobin
 Date: 27/02/2023
+Version: 1.2
 Repository: https://github.com/Wobin/LingeringDeath
 ]]--
 local mod = get_mod("Lingering Death")
